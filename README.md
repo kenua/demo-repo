@@ -1,2 +1,2 @@
 # This is a heading
-This is a simple demo.
+This is a simple  **demo**.
